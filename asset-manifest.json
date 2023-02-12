@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.e74d5047.css",
+    "main.js": "/dashboard/static/js/main.22b1483d.js",
+    "static/media/Saurabh_Chopda_Resume.pdf": "/dashboard/static/media/Saurabh_Chopda_Resume.099ca2bf8dbd10534fbe.pdf",
+    "static/media/tech-image.svg": "/dashboard/static/media/tech-image.ca82e97c349a897082b6268dd7f8d733.svg",
+    "index.html": "/dashboard/index.html",
+    "main.e74d5047.css.map": "/dashboard/static/css/main.e74d5047.css.map",
+    "main.22b1483d.js.map": "/dashboard/static/js/main.22b1483d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e74d5047.css",
+    "static/js/main.22b1483d.js"
+  ]
+}
